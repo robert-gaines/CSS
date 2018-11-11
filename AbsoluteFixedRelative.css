@@ -1,0 +1,19 @@
+#container
+{
+    border: black dotted 2px;
+    width: 600px;
+    height: 600px;
+    background: #777;
+    margin: 30px;
+    /* position: relative; */
+}
+#inner
+{
+    border: red dashed 2px;
+    width: 400px;
+    height: 400px;
+    background-color: lightgrey;
+    position: /* relative */ absolute;
+    top: 40px;
+    right: 400px;
+}

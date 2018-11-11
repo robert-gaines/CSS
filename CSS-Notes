@@ -98,6 +98,35 @@
     - a:hover
     - a:active /* must come after hover */
 
+* Height and Width *
+
+-> Width: n px;
+-> Width: n px;
+-> Display Block -> to override default Properties
+-> Min Height
+-> Max Height
+-> overflow: auto; /* Yields a scroll bar */
+-> overflow: scroll;
+-> overflow: hidden; /* Hides the overflow */
+
+* Position *
+
+-> Relative: elements site against one another
+-> Absolute: top,bottom,left,right
+-> Fixed: element remains in a fixed position in the viewport
+
+* Centering a Container * 
+
+-> Width, other than 100% is necessary
+-> margin (is key)
+-> margin: 0 0 0 0; /* TOP RIGHT BOTTOM LEFT */
+    - margin-top
+    - margin-bottom 
+    - margin-left 
+    - margin-right 
+-> margin: auto /* automatically centers element */
+
+
 
 
 
