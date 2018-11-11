@@ -1,0 +1,106 @@
+* CSS - Cascading Style Sheets *
+
+-> Ruleset:
+    1) Selector
+    2) Declaration Block
+-> Declarations: script inside the braces
+
+-> <style> -> goes inside the <head>
+
+-> Examples:
+
+    <style>
+
+    p {
+        color: blue;
+    }
+
+    </style>
+
+* CSS Comments *
+
+-> Comments are implemented by: /* */
+
+* Tag Selectors *
+
+-> Class : .class {}
+-> ID : #site-description {}
+
+-> An HTML Element can only have one ID, ID's can be used once!
+-> Class order doesn't matter
+
+-> Font Styles
+    -> font-style
+    -> text-decoration
+    -> text-transform
+    -> font-weight
+
+* Developer Tools *
+
+-> Chrome developer Tools:
+    - CTRL+Shift+i
+-> Browser specific developer tools
+
+* CSS Units *
+
+-> Absolute and Relative Units
+-> Absolute: fixed values
+-> Relative: relative to another property
+
+-> Absolute Values:
+    - Pixels
+    - mm
+    - cm 
+    - in
+
+-> Relative Values:
+    - %
+    - em 
+    - vh
+    - vw
+
+* CSS & Color *
+
+-> Color: byproduct of Red Green & Blue 
+-> RGB Written as varying percentages of RGB
+-> Color: rgb(255,255,255)
+-> Hexidecimal: 00-FF
+-> background-color: #ff00ff;
+-> CSS Supports shorthand for colors!
+
+* Border Properties *
+
+-> None
+-> Solid
+-> Dashed
+-> Dotted
+-> Double
+-> Groove
+-> Ridge
+-> Inset
+-> Outset
+-> Hidden
+
+* Fonts *
+
+-> font-family /* to specify the font family */
+
+* Stylesheets *
+
+-> <link href="path" rel="stylesheet">
+
+* Styling Links *
+
+-> Link Attributes:
+
+    - a:link
+    - a:visited
+    - a:hover
+    - a:active /* must come after hover */
+
+
+
+
+
+
+

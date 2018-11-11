@@ -1,0 +1,29 @@
+/* Pseudo Classes */
+
+a{
+    font-size: 20px;
+    padding: 5px;
+    border: solid black 2px;
+    border-radius: 2px;
+    font-weight: bold;
+
+}
+
+a:link{
+    color: #000; /* set to black */
+    text-decoration: none; /* remove the underline */
+}
+
+a:visited
+{
+    color: purple;
+}
+
+a:hover{
+    color: green;
+}
+
+a:active{
+    color: blue;
+}
+
