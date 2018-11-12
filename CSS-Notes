@@ -126,6 +126,29 @@
     - margin-right 
 -> margin: auto /* automatically centers element */
 
+* Display Types *
+
+-> Inline and Block
+
+-> Inline Tags & Block Tags:
+    - <a> : Anchor tags are Inline
+    - <p> : Block tag
+    - <div> : display block 
+    -> css : display: block / inline;
+    -> visibility: none /hidden
+
+* Margins and Padding *
+
+-> Padding: N E S W; /* In pixels */
+-> Spatial hierarchy:
+    Border
+        Margin
+            Padding
+
+-> Margin: external to the element
+-> Padding: internal to the element 
+
+
 
 
 
